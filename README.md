@@ -18,3 +18,6 @@ Similarly the hunter has a few traits:
 
 Initial properties for both of the units can be changed in the B_Dots class's constructor, most drastic effects can be seen using loiter and velocity.
 A wall class is still under implementation and will be added soon to limit travel direction and/or make zones.
+
+
+The hunters are being represented by red colour and the gatherers by green.
